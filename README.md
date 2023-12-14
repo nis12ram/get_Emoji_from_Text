@@ -27,6 +27,9 @@ i have trained these model using Lstm layer
 
 ----. Pre Trained wordvector are used(Google word2vec model)
 
+![Screenshot 2023-12-14 102041](https://github.com/nis12ram/get_Emoji_from_Text/assets/145199311/ce46f609-ca17-43ce-adbc-3bd6c6653ef6)
+
+
 
 
 ![Screenshot 2023-12-14 102041](https://github.com/nis12ram/getEmojifromText/assets/145199311/ac20fa00-ac36-48e5-b8db-e5760e50ccb8)
